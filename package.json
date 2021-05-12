@@ -1,0 +1,25 @@
+{
+  "name": "tiendaderopa",
+  "version": "1.0.0",
+  "description": "pruebas automatizadas del sistema",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/cypress run"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "tienda",
+    "de",
+    "ropa"
+  ],
+  "author": "anderson",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "url del repositorio"
+  }
+}
